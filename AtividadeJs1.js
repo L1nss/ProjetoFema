@@ -1,4 +1,4 @@
-const numss = [100, 50, 3, 1, 101, -2];
+const numss = [34, -12, 87, -45, 0, 19, -73, 56, -8, 91, -30, 22, -67, 14, -99, 5, -41, 78, -16, 63]
 console.log(maximo(numss));
 console.log(minimo(numss));
 function maximo(nums) {
